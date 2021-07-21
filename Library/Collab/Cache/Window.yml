@@ -14,12 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Scenes/SampleScene.unity
-    - ProjectSettings/ProjectVersion.txt
     - 
-    m_Values: 000000
-  RevisionSummary: 
+    m_Values: 01
+  RevisionSummary: "7/21 \n"
   ChangesSearchValue: 
-  SelectedHistoryRevision: e78babd2d5eb90e4c901d7b1c46f538f08f624af
+  SelectedHistoryRevision: bfd2c33bae8ea0a0175ebce3321e958bbba310b5
   HistoryPageNumber: 0
-  TabIndex: 1
+  TabIndex: 0
